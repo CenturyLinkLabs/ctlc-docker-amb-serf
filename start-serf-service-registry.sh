@@ -1,0 +1,1 @@
+exec serf agent -role serf-agent
