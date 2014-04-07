@@ -5,4 +5,4 @@ echo "export LOCAL_HOST=`ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' 
 
 source /tmp/env
 
-exec serf agent -role serf-agent -tag role=${NAME:-$LOCAL_PORT}
+exec serf agent -tag role=${NAME:-$LOCAL_PORT}
