@@ -5,7 +5,7 @@ Note: Inspired by svendowideit/ambassador, but it is not a Trusted Image and use
 
 *Ambassador Pattern Linking*
 
-Ambassadors are containers who's sole purpose is to help connect containers across multiple hosts.
+Ambassadors are containers whose sole purpose is to help connect containers across multiple hosts.
 
 Read more at http://www.centurylinklabs.com/ambassadors-how-to-link-docker-containers-across-servers
 
